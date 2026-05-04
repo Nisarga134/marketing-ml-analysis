@@ -47,41 +47,63 @@ Evaluation Metrics The models are evaluated using:
 ->Confusion Matrix
 
 Research Questions
+
 RQ1: Baseline model performance
+
 RQ2: Model comparison
+
 RQ3: Effect of preprocessing
+
 RQ4: Feature importance analysis
+
 RQ5: Hyperparameter tuning
+
 RQ6: Model robustness
+
 RQ7: Business insights
  
 #How to Run the Project
+
 Download the dataset from Kaggle(sometimes dataset will be unavailable) Or I have uploaded My dataset Previously in Teams
+
 Place the dataset file in your working directory
+
 Open Jupyter Notebook
+
 Run notebooks in order:
+
 RQ1 → RQ7
 
 Outputs will be generated as:
+
 CSV tables
 PDF figures
 
 Results Summary
+
 Random Forest achieved the best performance across most metrics
 Preprocessing (scaling) improved model accuracy
 
 Feature importance analysis shows that:
+
 Pages viewed
+
 Session duration
+
 Discounts are key predictors of purchase behavior
 
 Observations
+
 Some models (e.g., Decision Tree and Random Forest) achieved very high accuracy, which may indicate overfitting. Further validation techniques can be applied to improve generalization.
 
 Outputs
+
 Tables: Saved as .csv files
+
 Figures: Saved as .pdf files
+
 Requirements
+
 Install dependencies
 
 Libraries Used
