@@ -2,14 +2,19 @@ E-commerce Customer Purchase Prediction
 
 Project Overview This project focuses on predicting whether a customer will make a purchase based on their browsing behavior and product interaction data using supervised machine learning techniques. The analysis is performed using an E-commerce dataset and includes multiple research questions (RQ1–RQ7) covering model performance, preprocessing, feature importance, and business insights.
 
-#Dataset Name: Marketing and Product Performance Dataset
+Dataset Name: Marketing and Product Performance Dataset
+
 Source:https://www.kaggle.com/datasets/carrie1/ecommerce-data 
 Description: The dataset contains customer behavior data such as pages viewed, session duration,discounts, cart value, and demographic features.
 
+
 #Objective To build machine learning models that can accurately predict whether a customer will purchase a product.
 
+
 Target Variable
+
 Purchased
+
 Yes → 1
 No → 0
 
