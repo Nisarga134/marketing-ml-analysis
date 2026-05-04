@@ -5,6 +5,7 @@ Project Overview This project focuses on predicting whether a customer will make
 Dataset Name: Marketing and Product Performance Dataset
 
 Source:https://www.kaggle.com/datasets/carrie1/ecommerce-data 
+
 Description: The dataset contains customer behavior data such as pages viewed, session duration,discounts, cart value, and demographic features.
 
 
@@ -16,23 +17,34 @@ Target Variable
 Purchased
 
 Yes → 1
+
 No → 0
 
 Type of Problem - Binary Classification
+
 Machine Learning Models Used
 
 Logistic Regression
+
 Decision Tree
+
 K-Nearest Neighbors (KNN)
+
 Random Forest
+
 Evaluation Metrics The models are evaluated using:
 
-Accuracy
-Precision
-Recall
-F1-score
-AUC (Area Under ROC Curve)
-Confusion Matrix
+->Accuracy
+
+->Precision
+
+->Recall
+
+->F1-score
+
+->AUC (Area Under ROC Curve)
+
+->Confusion Matrix
 
 Research Questions
 RQ1: Baseline model performance
